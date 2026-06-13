@@ -1,3 +1,5 @@
+![Project logo](logo.svg)
+
 # SVGoblin
 
 A research project exploring raster-to-vector conversion in C# / .NET 9: it takes a
